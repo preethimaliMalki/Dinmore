@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dinmore.iml" filepath="$PROJECT_DIR$/Dinmore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dinmore-Client/Dinmore-Client.iml" filepath="$PROJECT_DIR$/Dinmore-Client/Dinmore-Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dinmore-Common/Dinmore-Common.iml" filepath="$PROJECT_DIR$/Dinmore-Common/Dinmore-Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dinmore-Server/Dinmore-Server.iml" filepath="$PROJECT_DIR$/Dinmore-Server/Dinmore-Server.iml" />
+    </modules>
+  </component>
+</project>
